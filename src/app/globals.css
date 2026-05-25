@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-gray-800;
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, #1a3a52 0%, #0066cc 100%);
+}
+
+.section-divider {
+  @apply my-16 border-t border-gray-200;
+}
+
+.skill-badge {
+  @apply inline-block bg-light text-primary px-4 py-2 rounded-lg text-sm font-medium mr-2 mb-2;
+}
+
+.experience-card {
+  @apply border-l-4 border-accent pl-6 py-4;
+}
+
+.project-card {
+  @apply bg-light rounded-lg p-6 hover:shadow-lg transition-shadow duration-300;
+}
