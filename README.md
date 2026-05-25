@@ -1,6 +1,6 @@
-# Jacob Pulane - Portfolio Website
+# Jacob Palane - Portfolio Website
 
-Professional portfolio website for **Jacob Bolai Pulane**, MSc Chemistry Researcher specializing in Rare Earth Elements, Hydrometallurgy, and Analytical Chemistry.
+Professional portfolio website for **Jacob Bolai Palane**, MSc Chemistry Researcher specializing in Rare Earth Elements, Hydrometallurgy, and Analytical Chemistry.
 
 ## 🌐 Live Site
 

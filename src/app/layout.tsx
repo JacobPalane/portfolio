@@ -4,7 +4,7 @@ import Navigation from '../components/Navigation'
 import Footer from '../components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Jacob Pulane - MSc Chemistry Researcher',
+  title: 'Jacob Palane - MSc Chemistry Researcher',
   description: 'Emerging analytical chemist and hydrometallurgy researcher with expertise in Rare Earth Elements recovery, biomining, analytical instrumentation, and data analysis.',
   keywords: ['Chemistry', 'Rare Earth Elements', 'Hydrometallurgy', 'Analytical Chemistry', 'Research', 'Portfolio'],
 }

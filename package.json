@@ -1,7 +1,7 @@
 {
   "name": "jacob-portfolio",
   "version": "1.0.0",
-  "description": "Jacob Pulane - MSc Chemistry Researcher Portfolio",
+  "description": "Jacob Palane - MSc Chemistry Researcher Portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
